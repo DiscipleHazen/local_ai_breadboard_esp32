@@ -10,5 +10,6 @@ The speakers are 3 Watts 4 Ohms.
 
 Of course, it's all connected with a bunch of male-to-male jumper wires.
 
+The GPU running the model was a RTX 5070 Ti
 
 It was very fun to learn how to solder, the basics of network programming, the basics of microcontrollers and modules, and running local AI models.
