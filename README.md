@@ -13,3 +13,7 @@ Of course, it's all connected with a bunch of male-to-male jumper wires.
 The GPU running the model was a RTX 5070 Ti
 
 It was very fun to learn how to solder, the basics of network programming, the basics of microcontrollers and modules, and running local AI models.
+
+
+
+<img width="8160" height="6144" alt="PXL_20261027_143233138" src="https://github.com/user-attachments/assets/4788eb07-ac86-4a94-9313-5619a1de9d3d" />
