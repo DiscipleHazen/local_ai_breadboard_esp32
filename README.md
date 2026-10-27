@@ -16,4 +16,4 @@ It was very fun to learn how to solder, the basics of network programming, the b
 
 
 
-<img width="8160" height="6144" alt="PXL_20261027_143233138" src="https://github.com/user-attachments/assets/4788eb07-ac86-4a94-9313-5619a1de9d3d" />
+<img width="8160" height="6000" alt="PXL_20261027_143233138" src="https://github.com/user-attachments/assets/4788eb07-ac86-4a94-9313-5619a1de9d3d" />
